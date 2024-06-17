@@ -638,6 +638,6 @@ Creating visualizations of global CO2 emissions using Python and LightningChart 
 Using LightningChart Python for these visualizations offers several benefits. Its high performance and variety of chart types make it ideal for handling large datasets and creating complex visualizations. The ability to customize charts and interact with the data makes it a powerful tool for data analysis and presentation.
 
 ## References
-- NASA Global Temperature Data: Our World in Data
-- Python Official Documentation: Python
-- LightningChart Documentation: LightningChart
+- NASA Global Temperature Data: [Our World in Data](https://ourworldindata.org/co2-emissions)
+- Python Official Documentation: [Python](https://www.python.org/)
+- LightningChart Documentation: [LightningChart](https://lightningchart.com/python-charts/docs/charts/)
