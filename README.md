@@ -389,7 +389,7 @@ dashboard.open(live=True)
 
 ```
 
-![Alt text](/images/Picture2.png)
+![Alt text](/images/Picture02.png)
 
 The maps highlight the geographical distribution of CO2 emissions for the years 1990 and 2022. A stark contrast can be seen in regions such as China and India, where emissions have surged significantly. In contrast, many Western countries have managed to either stabilize or reduce their emissions over the same period, reflecting the impact of environmental policies and technological advancements.
 
@@ -524,7 +524,7 @@ create_map_chart(dashboard, data[data['year'] == 2022].copy(), 2022, 'co2_per_ca
 dashboard.open(live=True)
 ```
 
-![Alt text](/images/Picture3.png)
+![Alt text](/images/Picture03.png)
 
 There are very large inequalities in per capita emissions across the world. The world’s largest per capita CO2 emitters are the major oil-producing countries; this is particularly true for those with relatively low population size. Most are in the Middle East and include Qatar, the United Arab Emirates, Bahrain, and Kuwait. This disparity emphasizes the need for tailored environmental strategies that account for both population size and economic activities.
 

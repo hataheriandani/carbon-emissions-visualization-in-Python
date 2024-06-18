@@ -84,7 +84,7 @@ def create_map_chart(dashboard, data_year, year, column_index, row_index):
 
     # Enable hover highlighting
     chart.set_highlight_on_hover(enabled=True)
-
+    chart.set_title(f"Average CO2 Emissions - Year: {year}")
     return chart
 
 # Create a dashboard to arrange the charts
