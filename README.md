@@ -23,7 +23,7 @@ LightningChart is known for its high performance, capable of rendering millions 
 To get started with visualizing CO2 emissions in Python, you need to set up your Python environment by installing the necessary libraries. You will need NumPy for numerical operations, pandas for data manipulation, and LightningChart for creating the visualizations. Ensure you have Python installed, and then you can set up your development environment using the following commands:
 
 ```bash
-pip install numpy pandas lightningchart-py pycountry
+pip install numpy pandas lightningchart pycountry
 ```
 
 ## Overview of Libraries
