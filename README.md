@@ -641,3 +641,4 @@ Using LightningChart Python for these visualizations offers several benefits. It
 - NASA Global Temperature Data: [Our World in Data](https://ourworldindata.org/co2-emissions)
 - Python Official Documentation: [Python](https://www.python.org/)
 - LightningChart Documentation: [LightningChart](https://lightningchart.com/python-charts/docs/charts/)
+
